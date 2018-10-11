@@ -1,0 +1,10 @@
+import java.util.ArrayList;
+
+public class Persona extends User {
+	private int edad;
+
+	public void puntuarPelicula(Pelicula p, int x) {
+		p.agregarPuntuacionPersonal(x);
+	}
+
+}

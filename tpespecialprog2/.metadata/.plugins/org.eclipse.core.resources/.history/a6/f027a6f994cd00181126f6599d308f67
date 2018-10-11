@@ -1,0 +1,25 @@
+import java.util.ArrayList;
+
+public class Pelicula {
+	
+	private String titulo;
+	private String sinopsis;
+	private int duracion;
+	private int año;
+	ArrayList<String> categorias;
+	ArrayList<String> directores;
+	ArrayList<String> protagonistas;	
+	ArrayList<Integer> valoracionesUsuarios;
+	ArrayList<Integer> valoracionesGrupos;
+	
+	
+	public void agregarPuntuacionGrupo(int x) {
+		valoracionesGrupos.add(x);
+	}
+	public void agregarPuntuacionPersonal(int x) {
+		valoracionesUsuarios.add(x);
+		
+	}
+	
+	
+}
