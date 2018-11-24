@@ -1,8 +1,0 @@
-import java.util.ArrayList;
-public class Grupo extends User{
-	ArrayList<User> miembros;
-	
-	public  void puntuarPelicula(Pelicula p, int x) {
-		p.agregarPuntuacionGrupo(x);
-	}
-	}

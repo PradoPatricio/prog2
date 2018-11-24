@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;ppppp&apos;&#x0D;&#x0A;- Original project: &apos;ppppp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.ucls&#x0D;&#x0A;     comp.ucls&#x0D;&#x0A;     composite.ucls&#x0D;&#x0A;     yyyy.ucls" description="Delete elements" element1="src/tpeprog2/composite.ucls" element2="src/tpeprog2/yyyy.ucls" element3="src/tpeprog2/comp.ucls" element4="src/tpeprog2/com.ucls" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1541949216861" subPackages="false" version="1.0"/>
+</session>
